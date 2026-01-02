@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f6f8;
+}
+
+header {
+  background: #8a1e3e;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.card {
+  background: white;
+  margin: 20px auto;
+  padding: 20px;
+  width: 90%;
+  max-width: 800px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.card h2 {
+  color: #8a1e5b;
+}
+
+.foto {
+  width: 150px;
+  border-radius: 8px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.alat {
+  width: 300px;
+  max-width: 100%;
+  margin: 10px 0;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  background: #e5e7eb;
+}
